@@ -8,6 +8,7 @@ One row per file in `biblioteca/` (paths relative to this folder). Binaries are 
 
 | Archivo / File | Familia / Family | Licencia / License | URL de origen / Source URL | Fecha / Date | sha256 | Notas / Notes |
 |---|---|---|---|---|---|---|
+| fuentes/anton/Anton-Regular.ttf | Anton | OFL-1.1 | https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/anton/Anton-Regular.ttf | 2026-11-15 | a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab | Rótulos de la galería (src/galeria/); bajada con fuentes/bajar-vivo.sh; OFL.txt en fuentes/anton/ |
 
 ## Stickers y logos / Stickers and logos (`stickers/`)
 
